@@ -3,3 +3,7 @@ Fecha,Partner,Importe
 18-06-2023,Stark Industries,1250,00
 25-06-2023,Oscorp,670,80
 29-06-2023,ACME S.A.,500,00
+
+Fecha → date
+Partner → partner
+Importe → amount
